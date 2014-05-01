@@ -1,5 +1,10 @@
-Deedy-Resume
+ahalbert-resume
 =========================
+
+My Resume. Template borrowed from [deedy](https://github.com/deedydas/Deedy-Resume).
+
+deedydas/Deedy-Resume
+==========================
 
 A **one page** , **two asymmetric column** resume template in **XeTeX** that caters to an **undergraduate Computer Science** student, that preferably uses a **Mac** .
 
@@ -11,7 +16,7 @@ This template attempts to **not look horrible**, allow **detail**, be a **single
 
 ## Preview
 
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/sample-image.png)
+![alt tag](https://dl.dropboxusercontent.com/u/18500843/resume%20preview.png)
 
 ## Dependencies
 
