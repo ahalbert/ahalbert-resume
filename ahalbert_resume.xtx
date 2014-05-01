@@ -1,0 +1,195 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.0 (30/4/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Move title styling information into the .cls file.
+% 4. Add styling information for a "Projects/Hacks" section.
+% 5. Add location/address information
+% 6. Add a "Last Updated" 
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{deedy-resume}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\par{\centering{\sffamily\fontsize{40pt}{10cm}\selectfont Armand Halbert}\\ 
+\vspace{5pt}
+\par\color{headings}\fontspec{Heiti TC Medium}\fontsize{11pt}{14pt}\selectfont \centering{ \urlstyle{same}\url{}\par
+\href{mailto:armand.halbert@gmail.com}{armand.halbert@gmail.com} | 512.736.8953}
+\vspace{5pt}
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+\subsection{University of\\ Massachusetts}
+\descript{MS in Computer Science}
+\location{Expected May 2015 | Amherst, MA }
+\location{ Cum. GPA: 3.5}
+\endsubsection
+
+
+\subsection{University of Texas\\ at Dallas}
+\descript{BS in Computer Science}
+\location{May 2013 | Richardson, TX}
+\location{ Cum. GPA: 3.77} \\
+Cum Laude \\
+Collegium V Honors
+\endsubsection
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+Website: \href{http://www.ahalbert.com}{\bf www.ahalbert.com} \\
+Github://\href{https://github.com/ahalbert}{\bf ahalbert} \\
+Bitbucket://\href{https://bitbucket.com/ahalbert}{\bf ahalbert} \\
+LinkedIn://\href{https://www.linkedin.com/in/armandhalbert}{\bf armandhalbert} \\
+\endsubsection
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+\subsection{Graduate}
+Artificial Intelligence\\
+Advanced Software Engineering \\
+Distributed Operating Systems \\ 
+Databases \\ 
+Compilers \\
+Advanced Algorthim Design\\
+\endsubsection
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\subsection{Programming Languages}
+\location{Fluent:}
+Java \textbullet{} JavaScript \textbullet{} Python \\
+\textbullet{} \LaTeX\ \textbullet{} C/C++ \textbullet{} PHP\\
+\location{Familiar:}
+Haskell \textbullet{} LISP \textbullet{} Ruby \textbullet{} SQL \textbullet{} MIPS 
+\subsection{Technologies}
+Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework \textbullet{} jQuery
+\endsubsection
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Work Experience}
+
+\runsubsection{National Institutes of Health}
+\descript{Researcher}
+\location{May 2014 – Aug 2014 | Bethesda, MD}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\endsubsection
+
+\runsubsection{Softlayer/IBM}
+\descript{Software Engineering Intern}
+\location{May 2013 – Aug 2013 | Dallas, TX}
+\item Developed an event logging system for Softlayer's cloud systems in PHP using an internal ORM and framework.
+\endsubsection
+
+\runsubsection{Tippr}
+\descript{| Software Engineering Intern }
+\location{May 2011 – Aug Austin, TX}
+\item  Tested, developed features and fixed bugs in a Python/Django web application that provided customers with daily deals in their local area. 
+\endsubsection
+
+\runsubsection{Socialware}
+\descript{Intern}
+\location{Jun 2010 – Aug 2010 | Austin, TX}
+\item Tested, developed features and fixed bugs in a Java/Spring Framework web application that extended functionality of Facebook, Twitter, and LinkedIn.
+\endsubsection
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     RESEARCH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Research}
+\runsubsection{University of Massachusetts Programming Languages and Systems Labratory}
+\location{Sep 2013 – Present}
+Worked with \textbf{\href{http://people.cs.umass.edu/~brun/}{Dr. Yuriy Brun}} to develop a web application frontend for \textbf{Perfume}, a tool which visualizes log files. Publication submitted.
+\endsubsection
+
+\runsubsection{UT Dallas Software Engineering Lab}
+\location{May 2012 – May 2013}
+Received a National Science Foundation grant to research Software Safety in the aerospace and defense industries under \textbf{\href{http://www.utdallas.edu/~ewong/}{Dr. Eric Wong} }. Research evolved into an undergraduate thesis.
+\endsubsection
+
+\runsubsection{UT Dallas Slinker Research Group}
+\location{Jan 2012 – Dec 2012 }
+Developed software in C++ for a device that automated experiments on OLED devices in the UTD Physics Department, under \textbf{\href{http://www.utdallas.edu/~slinker/}{Dr. Slinker}}. Published.
+\endsubsection
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Awards} 
+\begin{tabular}{rll}
+2014	     & National Librarary of Medicine Intramural Research Traineeship Award\\
+2013	     & UT Dallas Undergraduate Research Award\\
+2012	     & NSF Undegraduate Research Award\\
+\end{tabular}
+\endsubsection
+
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
