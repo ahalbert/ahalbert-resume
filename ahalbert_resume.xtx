@@ -65,7 +65,7 @@
 \subsection{University of\\ Massachusetts}
 \descript{MS in Computer Science}
 \location{Expected May 2015 | Amherst, MA }
-\location{ Cum. GPA: 3.5}
+\location{ Cum. GPA: 3.68}
 \endsubsection
 
 
@@ -112,10 +112,11 @@ Advanced Algorthim Design\\
 \location{Fluent:}
 Java \textbullet{} JavaScript \textbullet{} Python \\
 \textbullet{} \LaTeX\ \textbullet{} C/C++ \textbullet{} PHP\\
+\textbullet{} Perl \newline
 \location{Familiar:}
 Haskell \textbullet{} LISP \textbullet{} Ruby \textbullet{} SQL \textbullet{} MIPS 
 \subsection{Technologies}
-Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework \textbullet{} jQuery
+Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework \textbullet{} jQuery \textbullet{} joint.js \textbullet{} Postgres \textbullet{} MySQL
 \endsubsection
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -147,8 +148,8 @@ Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework 
 \endsubsection
 
 \runsubsection{Tippr}
-\descript{| Software Engineering Intern }
-\location{May 2011 – Aug Austin, TX}
+\descript{Software Engineering Intern }
+\location{May 2011 – Aug 2011 Austin, TX}
 \item  Tested, developed features and fixed bugs in a Python/Django web application that provided customers with daily deals in their local area. 
 \endsubsection
 
@@ -168,7 +169,7 @@ Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework 
 Worked with \textbf{\href{http://people.cs.umass.edu/~brun/}{Dr. Yuriy Brun}} to develop a web application frontend for \textbf{Perfume}, a tool which visualizes log files. Publication submitted.
 \endsubsection
 
-\runsubsection{UT Dallas Software Engineering Lab}
+\runsubsection{UT Dallas Software Engineering Labratory}
 \location{May 2012 – May 2013}
 Received a National Science Foundation grant to research Software Safety in the aerospace and defense industries under \textbf{\href{http://www.utdallas.edu/~ewong/}{Dr. Eric Wong} }. Research evolved into an undergraduate thesis.
 \endsubsection
