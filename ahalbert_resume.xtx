@@ -112,7 +112,7 @@ Advanced Algorthim Design\\
 \location{Fluent:}
 Java \textbullet{} JavaScript \textbullet{} Python \\
 \textbullet{} \LaTeX\ \textbullet{} C/C++ \textbullet{} PHP\\
-\textbullet{} Perl \newline
+\textbullet{} Perl \textbullet{} HTML\newline
 \location{Familiar:}
 Haskell \textbullet{} LISP \textbullet{} Ruby \textbullet{} SQL \textbullet{} MIPS 
 \subsection{Technologies}
@@ -139,6 +139,7 @@ Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework 
 \descript{Researcher}
 \location{May 2014 – Aug 2014 | Bethesda, MD}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\item Developed statistical analysis software in Perl to comapre primate genomes.
 \endsubsection
 
 \runsubsection{Softlayer/IBM}
@@ -150,13 +151,13 @@ Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework 
 \runsubsection{Tippr}
 \descript{Software Engineering Intern }
 \location{May 2011 – Aug 2011 Austin, TX}
-\item  Tested, developed features and fixed bugs in a Python/Django web application that provided customers with daily deals in their local area. 
+\item  Fixed bugs, tested and developed features in a Python/Django web application that provided customers with daily deals in their local area. 
 \endsubsection
 
 \runsubsection{Socialware}
 \descript{Intern}
 \location{Jun 2010 – Aug 2010 | Austin, TX}
-\item Tested, developed features and fixed bugs in a Java/Spring Framework web application that extended functionality of Facebook, Twitter, and LinkedIn.
+\item Fixed bugs, tested and developed features in a Java/Spring Framework web application that extended functionality of Facebook, Twitter, and LinkedIn.
 \endsubsection
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -164,12 +165,12 @@ Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Research}
-\runsubsection{University of Massachusetts Programming Languages and Systems Labratory}
+\runsubsection{University of Massachusetts Programming Languages and Systems Laboratory}
 \location{Sep 2013 – Present}
 Worked with \textbf{\href{http://people.cs.umass.edu/~brun/}{Dr. Yuriy Brun}} to develop a web application frontend for \textbf{Perfume}, a tool which visualizes log files. Publication submitted.
 \endsubsection
 
-\runsubsection{UT Dallas Software Engineering Labratory}
+\runsubsection{UT Dallas Software Engineering Laboratory}
 \location{May 2012 – May 2013}
 Received a National Science Foundation grant to research Software Safety in the aerospace and defense industries under \textbf{\href{http://www.utdallas.edu/~ewong/}{Dr. Eric Wong} }. Research evolved into an undergraduate thesis.
 \endsubsection
@@ -188,6 +189,7 @@ Developed software in C++ for a device that automated experiments on OLED device
 2014	     & National Librarary of Medicine Intramural Research Traineeship Award\\
 2013	     & UT Dallas Undergraduate Research Award\\
 2012	     & NSF Undegraduate Research Award\\
+2011	     & UT Dallas Academic Excellence Scholarship\\
 \end{tabular}
 \endsubsection
 
