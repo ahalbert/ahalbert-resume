@@ -139,7 +139,7 @@ Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework 
 \descript{Researcher}
 \location{May 2014 – Aug 2014 | Bethesda, MD}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\item Developed statistical analysis software in Perl to comapre primate genomes.
+\item Developed statistical analysis software in Perl to compare the human and primate genomes.
 \endsubsection
 
 \runsubsection{Softlayer/IBM}
@@ -167,7 +167,7 @@ Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework 
 \section{Research}
 \runsubsection{University of Massachusetts Programming Languages and Systems Laboratory}
 \location{Sep 2013 – Present}
-Worked with \textbf{\href{http://people.cs.umass.edu/~brun/}{Dr. Yuriy Brun}} to develop a web application frontend for \textbf{Perfume}, a tool which visualizes log files. Publication submitted.
+Worked with \textbf{\href{http://people.cs.umass.edu/~brun/}{Dr. Yuriy Brun}} to develop a web application frontend for \textbf{Perfume}, a tool which visualizes log files. Published.
 \endsubsection
 
 \runsubsection{UT Dallas Software Engineering Laboratory}
