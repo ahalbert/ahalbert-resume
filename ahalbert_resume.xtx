@@ -97,6 +97,7 @@ LinkedIn://\href{https://www.linkedin.com/in/armandhalbert}{\bf armandhalbert} \
 \subsection{Graduate}
 Artificial Intelligence\\
 Advanced Software Engineering \\
+Natural Language Processing\\
 Distributed Operating Systems \\ 
 Databases \\ 
 Compilers \\
@@ -116,7 +117,7 @@ Java \textbullet{} JavaScript \textbullet{} Python \\
 \location{Familiar:}
 Haskell \textbullet{} LISP \textbullet{} Ruby \textbullet{} SQL \textbullet{} MIPS 
 \subsection{Technologies}
-Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework \textbullet{} jQuery \textbullet{} joint.js \textbullet{} Postgres \textbullet{} MySQL
+Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework \textbullet{} jQuery \textbullet{} joint.js \textbullet{} Postgres \textbullet{} MySQL \textbullet{} MATLAB
 \endsubsection
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
