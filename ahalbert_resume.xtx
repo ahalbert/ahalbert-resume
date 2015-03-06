@@ -117,7 +117,7 @@ Java \textbullet{} JavaScript \textbullet{} Python \\
 \location{Familiar:}
 Haskell \textbullet{} LISP \textbullet{} Ruby \textbullet{} SQL \textbullet{} MIPS 
 \subsection{Technologies}
-Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework \textbullet{} jQuery \textbullet{} joint.js \textbullet{} Postgres \textbullet{} MySQL \textbullet{} MATLAB
+Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework \textbullet{} jQuery \textbullet{} Node.js \textbullet{} Postgres \textbullet{} MySQL \textbullet{} MATLAB
 \endsubsection
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -135,6 +135,12 @@ Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Work Experience}
+
+\runsubsection{United Auto Workers}
+\descript{Developer}
+\location{August  2014 – Ongoing Amherst, MA}
+\item  Fixed bugs, tested and developed features in a PHP web application that managed the insurance plans of graduate employees.
+\endsubsection
 
 \runsubsection{National Institutes of Health}
 \descript{Researcher}
