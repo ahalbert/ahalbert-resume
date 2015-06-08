@@ -64,8 +64,8 @@
 
 \subsection{University of\\ Massachusetts}
 \descript{MS in Computer Science}
-\location{Expected May 2015 | Amherst, MA }
-\location{ Cum. GPA: 3.68}
+\location{ Amherst, MA }
+\location{ Cum. GPA: 3.54 }
 \endsubsection
 
 
@@ -136,30 +136,36 @@ Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet
 
 \section{Work Experience}
 
+\runsubsection{IBM}
+\descript{Software Engineer}
+\location{June 2015 – | Littleton, MA}
+\vspace{3pt} % Hacky fix for awkward extra vertical space
+\item Developed Features and Bug Fixes for Rational Software's Jazz Foundation in Java.
+\endsubsection
+
+\runsubsection{National Institutes of Health}
+\descript{Researcher}
+\location{May 2014 – Aug 2014 | Bethesda, MD}
+\item Developed statistical analysis software in Perl to compare the human and primate genomes.
+\endsubsection
+
+\runsubsection{Softlayer}
+\descript{Software Engineering Intern}
+\location{May 2013 – Aug 2013 | Dallas, TX}
+\item Developed an event logging system for Softlayer's cloud systems in PHP using an internal ORM and framework.
+\endsubsection
+
 \runsubsection{United Auto Workers}
 \descript{Developer}
 \location{August  2014 – Ongoing Amherst, MA}
 \item  Fixed bugs, tested and developed features in a PHP web application that managed the insurance plans of graduate employees.
 \endsubsection
 
-\runsubsection{National Institutes of Health}
-\descript{Researcher}
-\location{May 2014 – Aug 2014 | Bethesda, MD}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\item Developed statistical analysis software in Perl to compare the human and primate genomes.
-\endsubsection
-
-\runsubsection{Softlayer/IBM}
-\descript{Software Engineering Intern}
-\location{May 2013 – Aug 2013 | Dallas, TX}
-\item Developed an event logging system for Softlayer's cloud systems in PHP using an internal ORM and framework.
-\endsubsection
-
-\runsubsection{Tippr}
-\descript{Software Engineering Intern }
-\location{May 2011 – Aug 2011 Austin, TX}
-\item  Fixed bugs, tested and developed features in a Python/Django web application that provided customers with daily deals in their local area. 
-\endsubsection
+%\runsubsection{Tippr}
+%\descript{Software Engineering Intern }
+%\location{May 2011 – Aug 2011 Austin, TX}
+%\item  Fixed bugs, tested and developed features in a Python/Django web application that provided customers with daily deals in their local area. 
+%\endsubsection
 
 \runsubsection{Socialware}
 \descript{Intern}
@@ -173,17 +179,17 @@ Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet
 
 \section{Research}
 \runsubsection{University of Massachusetts Programming Languages and Systems Laboratory}
-\location{Sep 2013 – Present}
+\location{ Sep 2013 – January 2015 }
 Worked with \textbf{\href{http://people.cs.umass.edu/~brun/}{Dr. Yuriy Brun}} to develop a web application frontend for \textbf{Perfume}, a tool which visualizes log files. Published.
 \endsubsection
 
 \runsubsection{UT Dallas Software Engineering Laboratory}
-\location{May 2012 – May 2013}
+\location{ May 2012 – May 2013}
 Received a National Science Foundation grant to research Software Safety in the aerospace and defense industries under \textbf{\href{http://www.utdallas.edu/~ewong/}{Dr. Eric Wong} }. Research evolved into an undergraduate thesis.
 \endsubsection
 
 \runsubsection{UT Dallas Slinker Research Group}
-\location{Jan 2012 – Dec 2012 }
+\location{ Jan 2012 – Dec 2012 }
 Developed software in C++ for a device that automated experiments on OLED devices in the UTD Physics Department, under \textbf{\href{http://www.utdallas.edu/~slinker/}{Dr. Slinker}}. Published.
 \endsubsection
 
