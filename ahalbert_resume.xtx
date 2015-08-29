@@ -140,7 +140,14 @@ Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet
 \descript{Software Engineer}
 \location{June 2015 – | Littleton, MA}
 \vspace{3pt} % Hacky fix for awkward extra vertical space
-\item Developed Features and Bug Fixes for Rational Software's Jazz Foundation in Java.
+\item Developed Features for debugging Rational Software's Jazz Foundation in Java and node.js.
+\endsubsection
+
+\runsubsection{UAW Local 2322}
+\descript{Software Contractor}
+\location{August 2014 – | Littleton, MA}
+\vspace{3pt} % Hacky fix for awkward extra vertical space
+\item Refactored a legacy PHP applicaiton to use unit tests, increase relaiblity and support mobile clients.
 \endsubsection
 
 \runsubsection{National Institutes of Health}
@@ -153,12 +160,6 @@ Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet
 \descript{Software Engineering Intern}
 \location{May 2013 – Aug 2013 | Dallas, TX}
 \item Developed an event logging system for Softlayer's cloud systems in PHP using an internal ORM and framework.
-\endsubsection
-
-\runsubsection{United Auto Workers}
-\descript{Developer}
-\location{August  2014 – Ongoing Amherst, MA}
-\item  Fixed bugs, tested and developed features in a PHP web application that managed the insurance plans of graduate employees.
 \endsubsection
 
 %\runsubsection{Tippr}
