@@ -143,11 +143,11 @@ Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet
 \item Developed Features for debugging Rational Software's Jazz Foundation in Java and node.js.
 \endsubsection
 
-\runsubsection{UAW Local 2322}
+\runsubsection{United Auto Workers Local 2322}
 \descript{Software Contractor}
 \location{August 2014 – | Littleton, MA}
 \vspace{3pt} % Hacky fix for awkward extra vertical space
-\item Refactored a legacy PHP applicaiton to use unit tests, increase relaiblity and support mobile clients.
+    \item Refactored a legacy PHP application managing union benefits to use unit tests, increase reliability and support mobile clients.
 \endsubsection
 
 \runsubsection{National Institutes of Health}
