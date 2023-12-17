@@ -41,7 +41,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\par{\centering{\sffamily\fontsize{40pt}{10cm}\selectfont Armand Halbert}\\ 
+\par{\centering{\sffamily\fontsize{40pt}{20cm}\selectfont Armand Halbert}\\ 
 \vspace{5pt}
 \par\color{headings}\fontspec{Heiti TC Medium}\fontsize{11pt}{14pt}\selectfont \centering{ \urlstyle{same}\url{}\par
 \href{mailto:armand.halbert@gmail.com}{armand.halbert@gmail.com} | 512.736.8953}
@@ -60,64 +60,83 @@
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\vspace{1pt}
 \section{Education} 
 
 \subsection{University of\\ Massachusetts}
 \descript{MS in Computer Science}
-\location{ Amherst, MA }
+\location{ May 2015 | Amherst, MA }
 \location{ Cum. GPA: 3.54 }
-\endsubsection
 
+\vspace{5pt}
+\vspace{5pt}
 
 \subsection{University of Texas\\ at Dallas}
 \descript{BS in Computer Science}
 \location{May 2013 | Richardson, TX}
 \location{ Cum. GPA: 3.77} \\
 Cum Laude \\
-Collegium V Honors
-\endsubsection
+Collegium V Honors \\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\vspace{5pt}
+\vspace{5pt}
 \section{Links} 
 Website: \href{http://www.ahalbert.com}{\bf www.ahalbert.com} \\
 Github://\href{https://github.com/ahalbert}{\bf ahalbert} \\
-Bitbucket://\href{https://bitbucket.com/ahalbert}{\bf ahalbert} \\
+%Bitbucket://\href{https://bitbucket.com/ahalbert}{\bf ahalbert} \\
 LinkedIn://\href{https://www.linkedin.com/in/armandhalbert}{\bf armandhalbert} \\
 \endsubsection
+
+\vspace{5pt}
+\vspace{5pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     CERTIFICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Certifications}
+Google Cloud Engineer \\
+Google Cloud Professional Data Engineer \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Coursework}
-\subsection{Graduate}
-Artificial Intelligence\\
-Advanced Software Engineering \\
-Natural Language Processing\\
-Distributed Operating Systems \\ 
-Databases \\ 
-Compilers \\
-Advanced Algorthim Design\\
-\endsubsection
+%\section{Coursework}
+%\subsection{Graduate}
+%Artificial Intelligence\\
+%Natural Language Processing\\
+%Distributed Operating Systems \\ 
+%Databases \\ 
+%Compilers \\
+%\endsubsection
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\vspace{5pt}
+\vspace{5pt}
+
 \section{Skills}
 \subsection{Programming Languages}
 \location{Fluent:}
-Java \textbullet{} JavaScript \textbullet{} Python \\
+SQL \textbullet{} JavaScript \textbullet{} Python \\
 \textbullet{} \LaTeX\ \textbullet{} C/C++ \textbullet{} PHP\\
-\textbullet{} Perl \textbullet{} HTML\newline
+\textbullet{} Perl \textbullet{} Java \textbullet{} Shell Scripting\newline
 \location{Familiar:}
-Haskell \textbullet{} LISP \textbullet{} Ruby \textbullet{} SQL \textbullet{} MIPS 
+Haskell \textbullet{} LISP \textbullet{} Ruby \textbullet{} MIPS 
+
+\vspace{5pt}
+\vspace{5pt}
+
 \subsection{Technologies}
-Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet{} Spring Framework \textbullet{} jQuery \textbullet{} Node.js \textbullet{} Postgres \textbullet{} MySQL \textbullet{} MATLAB
+Linux \textbullet{} Apache Beam \textbullet{} Google BigQuery \textbullet{} Google Cloud Platform \textbullet{} Tableau \textbullet{} Docker \textbullet{} Pandas \textbullet{} Django \textbullet{} AWS \textbullet{} Spring Framework \textbullet{} jQuery \textbullet{} Node.js \textbullet{} Amazon Redshift \textbullet{} MySQL \textbullet{} Postgres  \textbullet{} HTML 
 \endsubsection
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -136,31 +155,52 @@ Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet
 
 \section{Work Experience}
 
+\runsubsection{Wayfair}
+\descript{Software Engineer}
+\location{June 2022 – | Chicago, IL}
+Supported a Google BigQuery batch processing system for Wayfair traffic analytics (clickstream data). Led a team of three to port Spark data processing jobs to Google BigQuery, saving \$3 million in cloud computing costs annually. Built a real-time version of clickstream data with Apache Beam, allowing business analysts to analyze Wayfair traffic in real time.
+\endsubsection
+
+\vspace{5pt}
+
+\runsubsection{DataKitchen}
+\descript{Customer Success Engineer}
+\location{October 2016 – May 2022 | Cambridge, MA}
+Developed custom data warehouse solutions for clients in the pharmaceutical industry in SQL and Python on Amazon Web Services. Worked directly with clients, gathered requirements, developed solutions and fielded support requests. Developed automation tools in Python for the Datakitchen platform, such as a Docker microservice for automating moving and processing large data files to a Data Lake. This tool saved a full time engineers' worth of work each week.
+\endsubsection
+
+\vspace{5pt}
+
 \runsubsection{IBM}
 \descript{Software Engineer}
-\location{June 2015 – | Littleton, MA}
-\vspace{3pt} % Hacky fix for awkward extra vertical space
-\item Developed Features for debugging Rational Software's Jazz Foundation in Java and node.js.
+\location{June 2015 – October 2016 | Littleton, MA}
+Developed and debugged REST API features for Rational Software's Jazz Foundation in Java and Node.js. Developed a tool to automatically generate test data in Java. 
 \endsubsection
+
+\vspace{5pt}
 
 \runsubsection{United Auto Workers Local 2322}
 \descript{Software Contractor}
-\location{August 2014 – | Littleton, MA}
-\vspace{3pt} % Hacky fix for awkward extra vertical space
-    \item Refactored a legacy PHP application managing union benefits to use unit tests, increase reliability and support mobile clients.
+\location{August 2014 – August 2015 | Amherst, MA}
+Refactored a legacy PHP application managing union benefits to use unit tests, increase reliability and support mobile clients. Developed front-end features for the web application in Javascript. 
 \endsubsection
+
+\vspace{5pt}
 
 \runsubsection{National Institutes of Health}
 \descript{Researcher}
 \location{May 2014 – Aug 2014 | Bethesda, MD}
-\item Developed statistical analysis software in Perl to compare the human and primate genomes.
+Developed statistical analysis software in Perl to compare the human and primate genomes.
 \endsubsection
 
-\runsubsection{Softlayer}
-\descript{Software Engineering Intern}
-\location{May 2013 – Aug 2013 | Dallas, TX}
-\item Developed an event logging system for Softlayer's cloud systems in PHP using an internal ORM and framework.
-\endsubsection
+\vspace{5pt}
+
+%\runsubsection{Softlayer}
+%\descript{Software Engineering Intern}
+%\location{May 2013 – Aug 2013 | Dallas, TX}
+%Developed an event logging system for Softlayer's cloud systems in PHP using an internal ORM and framework.
+%\endsubsection
+
 
 %\runsubsection{Tippr}
 %\descript{Software Engineering Intern }
@@ -168,44 +208,49 @@ Linux \textbullet{} Git \textbullet{} Mercurial \textbullet{} Django \textbullet
 %\item  Fixed bugs, tested and developed features in a Python/Django web application that provided customers with daily deals in their local area. 
 %\endsubsection
 
-\runsubsection{Socialware}
-\descript{Intern}
-\location{Jun 2010 – Aug 2010 | Austin, TX}
-\item Fixed bugs, tested and developed features in a Java/Spring Framework web application that extended functionality of Facebook, Twitter, and LinkedIn.
-\endsubsection
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
+\section{Research and Projects}
+
+\runsubsection{Transitmatters}
+\location{ September 2019 – March 2022 }
+Researched, co-wrote and edited a book on Mobility Hubs for a Boston non-profit. Led a team of volunteer researchers and graphic designers to design and produce the book. 
+\endsubsection
+
+\vspace{5pt}
+
 \runsubsection{University of Massachusetts Programming Languages and Systems Laboratory}
-\location{ Sep 2013 – January 2015 }
+\location{ September 2013 – January 2015 }
 Worked with \textbf{\href{http://people.cs.umass.edu/~brun/}{Dr. Yuriy Brun}} to develop a web application frontend for \textbf{Perfume}, a tool which visualizes log files. Published.
 \endsubsection
+
+\vspace{5pt}
 
 \runsubsection{UT Dallas Software Engineering Laboratory}
 \location{ May 2012 – May 2013}
 Received a National Science Foundation grant to research Software Safety in the aerospace and defense industries under \textbf{\href{http://www.utdallas.edu/~ewong/}{Dr. Eric Wong} }. Research evolved into an undergraduate thesis.
 \endsubsection
 
-\runsubsection{UT Dallas Slinker Research Group}
-\location{ Jan 2012 – Dec 2012 }
-Developed software in C++ for a device that automated experiments on OLED devices in the UTD Physics Department, under \textbf{\href{http://www.utdallas.edu/~slinker/}{Dr. Slinker}}. Published.
-\endsubsection
+%\runsubsection{UT Dallas Slinker Research Group}
+%\location{ Jan 2012 – Dec 2012 }
+%Developed software in C++ for a device that automated experiments on OLED devices in the UTD Physics Department, under \textbf{\href{http://www.utdallas.edu/~slinker/}{Dr. Slinker}}. Published.
+%\endsubsection
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards} 
-\begin{tabular}{rll}
-2014	     & National Librarary of Medicine Intramural Research Traineeship Award\\
-2013	     & UT Dallas Undergraduate Research Award\\
-2012	     & NSF Undegraduate Research Award\\
-2011	     & UT Dallas Academic Excellence Scholarship\\
-\end{tabular}
-\endsubsection
+%\section{Awards} 
+%\begin{tabular}{rll}
+%2014	     & National Librarary of Medicine Intramural Research Traineeship Award\\
+%2013	     & UT Dallas Undergraduate Research Award\\
+%2012	     & NSF Undegraduate Research Award\\
+%2011	     & UT Dallas Academic Excellence Scholarship\\
+%\end{tabular}
+%\endsubsection
 
 
 \end{minipage} 
